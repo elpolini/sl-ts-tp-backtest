@@ -1,6 +1,7 @@
 # random things
 stop_sigs
 yfdata.pickle
+*.pickle
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
